@@ -52,4 +52,4 @@ python3 llm.py
 O chatbot estará disponível localmente em `http://localhost:11434`.
 
 ## Demonstração no Youtube
-https://youtu.be/Iln8vNTDoV4
+https://youtu.be/VBcoGSYgY-g
